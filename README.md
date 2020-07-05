@@ -30,8 +30,8 @@
 12.|Щелкнуть по активной зеленой кнопке с тестом "Мы перезвоним" (кнопка активна при заполненных полях валидными значениями и при установке флажка согласия)| Заявка успешно отправляется. Выходит сообщение с текстом "Спасибо, скоро мы вам перезвоним!" 
 <details>
   <summary>Подробнее</summary>
-  
-![шаг1](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_1.PNG/250x100) 
+
+![шаг1](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_1.PNG) 
 
 ![шаг2](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_2.PNG)
 
@@ -52,6 +52,18 @@
 5.| Кликнуть на вторую кнопку с текстом "Заполнить заявку"| Переход на страницу с *title* [«Накопилка» — «Альфа-Банк»](https://alfabank.ru/make-money/savings-account/nakopilka/anketa/). Появляется текс "Оставьте свои контакты и мы с вами обяхательно свяжемся".
 6.|Далее шаги 6-12 аналогично сценарию 1.
 
+<details>
+  <summary>Подробнее</summary>
+
+![шаг1](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_1.PNG) 
+
+![шаг2](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B92_2.PNG)
+
+![шаг3](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_3.PNG)
+
+![шаг4](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_4.PNG)
+
+</details>
 
 **Сценарий 3:**
 №пп | значение  |результат
@@ -64,6 +76,20 @@
 6.|Кликнуть на первую кнопку с текстом "Заполнить заявку"| Переход на страницу с *title* [«Накопилка» — «Альфа-Банк»](https://alfabank.ru/make-money/savings-account/nakopilka/anketa/). Появляется текс "Оставьте свои контакты и мы с вами обяхательно свяжемся"
 7.|Далее шаги 7-12 аналогично сценарию 1.
 
+<details>
+  <summary>Подробнее</summary>
+
+![шаг1](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B93_1.PNG) 
+
+![шаг2](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B93_2.PNG)
+
+![шаг3](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_2.PNG)
+
+![шаг4](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_3.PNG)
+
+![шаг5](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_4.PNG)
+
+</details>
 
 **Сценарий 4:**
 №пп | значение  |результат
@@ -77,11 +103,18 @@
 7.|Далее шаги 7-12 аналогично сценарию 1.
 
 <details>
-  <summary>Example</summary>
+  <summary>Подробнее</summary>
 
-  ```
-  long console output here
-  ```
+![шаг1](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B93_1.PNG) 
+
+![шаг2](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B93_2.PNG)
+
+![шаг3](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B92_2.PNG)
+
+![шаг4](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_3.PNG)
+
+![шаг5](https://github.com/leonnika/aqa-hw10-plan/blob/master/png/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B91_4.PNG)
+
 </details>
 
 
